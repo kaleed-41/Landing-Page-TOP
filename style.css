@@ -2,11 +2,13 @@
     box-sizing: border-box;
 }
 
+img{
+    border-radius: 4%;
+}
+
 .header-logo img{
     width: 100px;
-    height: 100px;
-    border-radius: 4%;
-    
+    height: 100px;    
 }
 
 .header-logo{
@@ -72,7 +74,6 @@ a:hover{
 .hero-img img {
     width: auto;
     height: 283px;
-    border-radius: 4%;
     margin-left: 49px;
     margin-top: 24px;
 }
